@@ -1,0 +1,7 @@
+// username: bandit2
+ssh bandit2@bandit.labs.overthewire.org -p 2220
+enter password of level 2
+ls
+cat "spaces in this filename"   // filename contains spaces
+password of level 3 is displayed
+exit
