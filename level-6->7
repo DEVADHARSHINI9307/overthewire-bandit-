@@ -1,0 +1,7 @@
+// username: bandit6
+ssh bandit6@bandit.labs.overthewire.org -p 2220
+enter password of level 6
+find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
+cat /var/lib/dpkg/info/bandit7.password
+password of level 7 is displayed
+exit
