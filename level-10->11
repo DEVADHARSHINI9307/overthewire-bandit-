@@ -1,0 +1,6 @@
+// username: bandit10
+ssh bandit10@bandit.labs.overthewire.org -p 2220
+enter password of level 10
+base64 -d data.txt          // decode base64
+password of level 11 is displayed
+exit
