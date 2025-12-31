@@ -1,0 +1,7 @@
+// username: bandit4
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+enter password of level 4
+file ./*                // identify readable file
+cat ./-file07           // read text file
+password of level 5 is displayed
+exit
