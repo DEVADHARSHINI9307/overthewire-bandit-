@@ -1,0 +1,7 @@
+// username: bandit3
+ssh bandit3@bandit.labs.overthewire.org -p 2220
+enter password of level 3
+ls -a                   // show hidden files
+cat .hidden             // read hidden file
+password of level 4 is displayed
+exit
