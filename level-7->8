@@ -1,0 +1,6 @@
+// username: bandit7
+ssh bandit7@bandit.labs.overthewire.org -p 2220
+enter password of level 7
+grep "millionth" data.txt   // search keyword
+password of level 8 is displayed
+exit
